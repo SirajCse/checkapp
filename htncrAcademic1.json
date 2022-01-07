@@ -1,7 +1,7 @@
 {
     "licence": "0000-0000-0000-0001",
-    "status": "success",
-    "type": "Extended",
+    "status": true,
+    "extended": true,
     "HOME_URL": "https://www.htncr.org/student",
     "ACTIVATE_PROGRESS_BAR": true,
     "USER_AGENT": "",
