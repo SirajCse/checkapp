@@ -1,6 +1,6 @@
 {
-    "licence": "0000-0000-0000-0001",
-    "status": true,
+    "LICENCE": "0000-0000-0000-0001",
+    "STATUS": true,
     "extended": true,
     "HOME_URL": "https://www.htncr.org/student",
     "ACTIVATE_PROGRESS_BAR": true,
