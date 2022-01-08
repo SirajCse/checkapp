@@ -1,8 +1,10 @@
 {
-    "LICENCE": "0000-0000-0000-0001",
     "STATUS": true,
     "extended": true,
+    "HOST": "htncr.org/student",
     "HOME_URL": "https://www.htncr.org/student",
+    "UpdateVersionToast": "Please make sure to install the latest version of the app.",
+    "RegularLicenceToast": "Please upgrade your Regular License to an Extended License to use features that require your users to pay.\n Contact with www.bitdreamit.com\n Email:siraj@bitdreamit.com\n Phone:01738145213",
     "ACTIVATE_PROGRESS_BAR": true,
     "USER_AGENT": "",
     "APPEND_LANG_CODE": false,
