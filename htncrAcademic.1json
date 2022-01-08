@@ -2,7 +2,7 @@
     "STATUS": true,
     "extended": true,
     "HOST": "google.com",
-    "HOME_URL": "https://www.google",
+    "HOME_URL": "https://www.google.com",
     "UpdateVersionToast": "Please make sure to install the latest version of the app.",
     "ACTIVATE_PROGRESS_BAR": true,
     "USER_AGENT": "",
